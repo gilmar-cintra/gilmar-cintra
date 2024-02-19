@@ -46,3 +46,9 @@ Desenvolvedor estagiário Full Stack NodeJs e VueJS - Desenvolvimento web na Kem
 ✔️ **Conselho Regional de Química IV Região (03/2022 - 11/2023)**
 
 Desenvolvedor estagiário Full Stack PHP - Manutenção de sistema gerencial interno legado utilizando PHP, Laravel, JavaScript e Microsoft SQL Server.
+
+### Projetos de destaque
+
+📱 **Aplicativo IPAD - Seja Democracia**
+
+Lançado em 2021, este aplicativo foi desenvolvido utilizando as tecnologias Node.js, Vue.js com Vuetify, Capacitor e Docker. Trata-se de uma plataforma de ensino online dedicada à formação política, oferecendo uma ampla gama de cursos e recursos educacionais [saiba mais clicando aqui](https://play.google.com/store/apps/details?id=br.app.sejademocracia)
