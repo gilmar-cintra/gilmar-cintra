@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá eu sou o Gilmar Cintra 😉
 
-<!--
-**gilmar-cintra/gilmar-cintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador Full Stack Node.js e Vue.js
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gilmarcintra)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gilmarcintra)
+
+Acompanhe as estatísticas dos meus projetos **públicos**
+
+[![Gilmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmar-cintra&show_icons=true)](https://github.com/gilmar-cintra/github-readme-stats)
+
+teste
