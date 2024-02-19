@@ -22,4 +22,27 @@ Acompanhe as estatísticas dos meus projetos **públicos**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MSVS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Educação
+
+🎓 **Engenharia de Computação (2020 - 2025)**
+
+Cursando 8º Semestre - Universidade Virtual do Estado de São Paulo (UNIVESP).
+
+🎓 **Ciência da Computação (2011 - 2015)**
+
+Não concluído - Universidade de São Paulo (USP) – Instituto de Matemática e Estatística
+
+### Experiências Profissional
+
+✔️ **Harvard University Brazil Office (09/2013 - 09/2017)**
+
+Assistente de TI e programação - Refatoração do sistema web (PHP com Laravel) de gestão interna utilizado no escritório de Harvard no Brasil, Chile, Cambridge e Ásia. Suporte geral em TI.
+
+✔️ **Kemio Code (02/2021 - 11/2021)**
+
+Desenvolvedor estagiário Full Stack NodeJs e VueJS - Desenvolvimento web na Kemio Code com participação nos processos de levantamento de requisitos, modelagem de dados e processos, validações, desenvolvimento de funcionalidades e documentação.
+
+✔️ **Conselho Regional de Química IV Região (03/2022 - 11/2023)**
+
+Desenvolvedor estagiário Full Stack PHP - Manutenção de sistema gerencial interno legado utilizando PHP, Laravel, JavaScript e Microsoft SQL Server.
