@@ -11,3 +11,7 @@ Programador Full Stack Node.js e Vue.js
 Acompanhe as estatísticas dos meus projetos **públicos**
 
 [![Gilmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmar-cintra&show_icons=true)](https://github.com/gilmar-cintra/github-readme-stats)
+
+### Tecnologias utilizadas
+
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
