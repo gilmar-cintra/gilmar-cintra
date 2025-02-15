@@ -26,7 +26,11 @@ Acompanhe as estatísticas dos meus projetos
 
 🎓 **Engenharia de Computação (2020 - 2025)**
 
-Cursando 8º Semestre - Universidade Virtual do Estado de São Paulo (UNIVESP).
+Formado em 2025 - Universidade Virtual do Estado de São Paulo (UNIVESP).
+
+🎓 **Bacharel em Tecnologia da Informação com ênfase em Internet das Coisas (2020 - 2024)**
+
+Formado em 2024 - Universidade Virtual do Estado de São Paulo (UNIVESP).
 
 🎓 **Ciência da Computação (2011 - 2015)**
 
